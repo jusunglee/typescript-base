@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "dev": "tsx watch main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.7",
+    "prettier": "^3.4.2",
+    "tsx": "^4.20.3"
+  }
+}
